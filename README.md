@@ -1,4 +1,5 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/107950832/183891185-a62f25fe-a90c-499f-a0ab-1573244f65ac.png)
+
 
 # 💫 About Me:
 🔭 I’m currently working on AI/ML<br>👯 I’m looking to collaborate on projects <br>🌱 I’m currently learning Web Development<br>💬 Ask me about Graphic Designing<br>
